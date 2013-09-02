@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/extensions/HMRC/examples
+END
+submit-return.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/extensions/HMRC/examples/submit-return.php
+END
+config.php.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/extensions/HMRC/examples/config.php.sample
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/extensions/HMRC/examples/README
+END
+submit-poll.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130/trunk/extensions/HMRC/examples/submit-poll.php
+END
